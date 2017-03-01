@@ -1,1 +1,1 @@
-git is a software
+git is a distributed software
